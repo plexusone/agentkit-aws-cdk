@@ -1,7 +1,7 @@
 github.com/Masterminds/semver/v3 v3.4.0 h1:Zog+i5UMtVoCU8oKka5P7i9q9HgrJeGzI9SA1Xbatp0=
 github.com/Masterminds/semver/v3 v3.4.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
-github.com/aws/aws-cdk-go/awscdk/v2 v2.250.0 h1:6nwgDoOo2Oy8PEIaiKoszzA5o4nLDGDZE6pctHoTaek=
-github.com/aws/aws-cdk-go/awscdk/v2 v2.250.0/go.mod h1:4wrEW2N+raDd4DhlsIal6IFuhuJuNmabz7ye8KtbFho=
+github.com/aws/aws-cdk-go/awscdk/v2 v2.251.0 h1:ilNMLytT2LNZwyBPJzQ7LAODNL5wdPJm7RzKjsb9a0U=
+github.com/aws/aws-cdk-go/awscdk/v2 v2.251.0/go.mod h1:1DiWCmkhkZYO1IgxT8iURgNq9fcnTsXv8o7a8h4c5lE=
 github.com/aws/aws-sdk-go-v2 v1.41.6 h1:1AX0AthnBQzMx1vbmir3Y4WsnJgiydmnJjiLu+LvXOg=
 github.com/aws/aws-sdk-go-v2 v1.41.6/go.mod h1:dy0UzBIfwSeot4grGvY1AqFWN5zgziMmWGzysDnHFcQ=
 github.com/aws/aws-sdk-go-v2/config v1.32.16 h1:Q0iQ7quUgJP0F/SCRTieScnaMdXr9h/2+wze1u3cNeM=
@@ -40,8 +40,8 @@ github.com/cdklabs/awscdk-asset-awscli-go/awscliv1/v2 v2.2.275 h1:vqqt2TUvii5xHs
 github.com/cdklabs/awscdk-asset-awscli-go/awscliv1/v2 v2.2.275/go.mod h1:ZxUAw5ZFmnTmJZCzXAhovthmd8xUf3TstT9gRXU54Go=
 github.com/cdklabs/awscdk-asset-node-proxy-agent-go/nodeproxyagentv6/v2 v2.1.1 h1:qYRuYGUp/84mhbCl52EbURK01Z+AkAMIF3NZo4pQ+bI=
 github.com/cdklabs/awscdk-asset-node-proxy-agent-go/nodeproxyagentv6/v2 v2.1.1/go.mod h1:UubJt6Phh7eY5PsJxCJaLMuaI6Itdu1aSWrh/XdIj6Q=
-github.com/cdklabs/cloud-assembly-schema-go/awscdkcloudassemblyschema/v53 v53.16.0 h1:R8XoYX+kat0+sEv8Lht1m7EMqWlfCwC87EzDGoAcpPw=
-github.com/cdklabs/cloud-assembly-schema-go/awscdkcloudassemblyschema/v53 v53.16.0/go.mod h1:f1+5LmB3qo5zkYRcZ+QvZM1A/1L1zCLic85cGPR7FBE=
+github.com/cdklabs/cloud-assembly-schema-go/awscdkcloudassemblyschema/v53 v53.18.0 h1:22j9kjgrFjiD/MgifgBC90udQ2lABD7QBIPEA7kuVsI=
+github.com/cdklabs/cloud-assembly-schema-go/awscdkcloudassemblyschema/v53 v53.18.0/go.mod h1:f1+5LmB3qo5zkYRcZ+QvZM1A/1L1zCLic85cGPR7FBE=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fatih/color v1.19.0 h1:Zp3PiM21/9Ld6FzSKyL5c/BULoe/ONr9KlbYVOfG8+w=
