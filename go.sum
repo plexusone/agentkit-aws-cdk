@@ -52,8 +52,8 @@ github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHP
 github.com/mattn/go-colorable v0.1.14/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
 github.com/mattn/go-isatty v0.0.21 h1:xYae+lCNBP7QuW4PUnNG61ffM4hVIfm+zUzDuSzYLGs=
 github.com/mattn/go-isatty v0.0.21/go.mod h1:ZXfXG4SQHsB/w3ZeOYbR0PrPwLy+n6xiMrJlRFqopa4=
-github.com/plexusone/agentkit v0.5.0 h1:TG4QrljpcWka94M66rs+NGkSzanhgwCR8qOvINU8oqE=
-github.com/plexusone/agentkit v0.5.0/go.mod h1:t5Jees4/ft0FbCOMrumSkB/JAlI3jjN6j/J/eK1p+qA=
+github.com/plexusone/agentkit v0.6.0 h1:gMoF2sO63EomPn9Ol+MD70JZENLZJXkmyAAcb0xUuGI=
+github.com/plexusone/agentkit v0.6.0/go.mod h1:rEuoZCToOnU/dc7dk3jV4ZID984WzE0qxb+nbk4rPSE=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=

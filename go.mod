@@ -1,6 +1,6 @@
 module github.com/plexusone/agentkit-aws-cdk
 
-go 1.25.5
+go 1.26.0
 
 require (
 	github.com/aws/aws-cdk-go/awscdk/v2 v2.251.0
@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.42.0
 	github.com/aws/constructs-go/constructs/v10 v10.6.0
 	github.com/aws/jsii-runtime-go v1.128.0
-	github.com/plexusone/agentkit v0.5.0
+	github.com/plexusone/agentkit v0.6.0
 )
 
 require (
