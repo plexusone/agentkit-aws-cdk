@@ -2,8 +2,8 @@ github.com/Masterminds/semver/v3 v3.4.0 h1:Zog+i5UMtVoCU8oKka5P7i9q9HgrJeGzI9SA1
 github.com/Masterminds/semver/v3 v3.4.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/aws/aws-cdk-go/awscdk/v2 v2.251.0 h1:ilNMLytT2LNZwyBPJzQ7LAODNL5wdPJm7RzKjsb9a0U=
 github.com/aws/aws-cdk-go/awscdk/v2 v2.251.0/go.mod h1:1DiWCmkhkZYO1IgxT8iURgNq9fcnTsXv8o7a8h4c5lE=
-github.com/aws/aws-sdk-go-v2 v1.41.6 h1:1AX0AthnBQzMx1vbmir3Y4WsnJgiydmnJjiLu+LvXOg=
-github.com/aws/aws-sdk-go-v2 v1.41.6/go.mod h1:dy0UzBIfwSeot4grGvY1AqFWN5zgziMmWGzysDnHFcQ=
+github.com/aws/aws-sdk-go-v2 v1.41.7 h1:DWpAJt66FmnnaRIOT/8ASTucrvuDPZASqhhLey6tLY8=
+github.com/aws/aws-sdk-go-v2 v1.41.7/go.mod h1:4LAfZOPHNVNQEckOACQx60Y8pSRjIkNZQz1w92xpMJc=
 github.com/aws/aws-sdk-go-v2/config v1.32.16 h1:Q0iQ7quUgJP0F/SCRTieScnaMdXr9h/2+wze1u3cNeM=
 github.com/aws/aws-sdk-go-v2/config v1.32.16/go.mod h1:duCCnJEFqpt2RC6no1iK6q+8HpwOAkiUua0pY507dQc=
 github.com/aws/aws-sdk-go-v2/credentials v1.19.15 h1:fyvgWTszojq8hEnMi8PPBTvZdTtEVmAVyo+NFLHBhH4=
@@ -34,8 +34,8 @@ github.com/aws/constructs-go/constructs/v10 v10.6.0 h1:fYUtscoB7dhGXBFuO1o6qvgYz
 github.com/aws/constructs-go/constructs/v10 v10.6.0/go.mod h1:/OFJ5HMGSjXyjQ4mNz32+XGA7S0S3ZWDXYtBSAuurEE=
 github.com/aws/jsii-runtime-go v1.128.0 h1:RsJY4o/wBO708CKhWib4v8nVicXA+FuRtfd4hxxxFl8=
 github.com/aws/jsii-runtime-go v1.128.0/go.mod h1:jjon7Di1fddrbl9Cvu+hXYNos/FSIObOgJgSucxWGhs=
-github.com/aws/smithy-go v1.25.0 h1:Sz/XJ64rwuiKtB6j98nDIPyYrV1nVNJ4YU74gttcl5U=
-github.com/aws/smithy-go v1.25.0/go.mod h1:YE2RhdIuDbA5E5bTdciG9KrW3+TiEONeUWCqxX9i1Fc=
+github.com/aws/smithy-go v1.25.1 h1:J8ERsGSU7d+aCmdQur5Txg6bVoYelvQJgtZehD12GkI=
+github.com/aws/smithy-go v1.25.1/go.mod h1:YE2RhdIuDbA5E5bTdciG9KrW3+TiEONeUWCqxX9i1Fc=
 github.com/cdklabs/awscdk-asset-awscli-go/awscliv1/v2 v2.2.275 h1:vqqt2TUvii5xHsViL7GiAcxHQU3IznlSjgnWWPQ8NBc=
 github.com/cdklabs/awscdk-asset-awscli-go/awscliv1/v2 v2.2.275/go.mod h1:ZxUAw5ZFmnTmJZCzXAhovthmd8xUf3TstT9gRXU54Go=
 github.com/cdklabs/awscdk-asset-node-proxy-agent-go/nodeproxyagentv6/v2 v2.1.1 h1:qYRuYGUp/84mhbCl52EbURK01Z+AkAMIF3NZo4pQ+bI=
