@@ -9,12 +9,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.41.7
 	github.com/aws/aws-sdk-go-v2/service/sts v1.42.1
 	github.com/aws/constructs-go/constructs/v10 v10.6.0
-	github.com/aws/jsii-runtime-go v1.129.0
+	github.com/aws/jsii-runtime-go v1.130.0
 	github.com/plexusone/agentkit v0.6.0
 )
 
 require (
-	github.com/Masterminds/semver/v3 v3.4.0 // indirect
+	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.16 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.23 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.23 // indirect
@@ -34,11 +34,11 @@ require (
 	github.com/mattn/go-isatty v0.0.22 // indirect
 	github.com/yuin/goldmark v1.8.2 // indirect
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067 // indirect
-	golang.org/x/mod v0.35.0 // indirect
+	golang.org/x/mod v0.36.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/sys v0.43.0 // indirect
-	golang.org/x/telemetry v0.0.0-20260414141209-fac6e1c83189 // indirect
-	golang.org/x/tools v0.44.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
+	golang.org/x/telemetry v0.0.0-20260508192327-42602be52be6 // indirect
+	golang.org/x/tools v0.45.0 // indirect
 	golang.org/x/tools/cmd/godoc v0.1.0-deprecated // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
