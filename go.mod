@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.42.3
 	github.com/aws/aws-sdk-go-v2/service/sts v1.43.3
 	github.com/aws/constructs-go/constructs/v10 v10.6.0
-	github.com/aws/jsii-runtime-go v1.136.0
+	github.com/aws/jsii-runtime-go v1.137.0
 	github.com/plexusone/agentkit v0.6.1
 )
 
