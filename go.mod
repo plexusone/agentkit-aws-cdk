@@ -3,7 +3,7 @@ module github.com/plexusone/agentkit-aws-cdk
 go 1.26.4
 
 require (
-	github.com/aws/aws-cdk-go/awscdk/v2 v2.263.0
+	github.com/aws/aws-cdk-go/awscdk/v2 v2.264.0
 	github.com/aws/aws-sdk-go-v2 v1.43.5
 	github.com/aws/aws-sdk-go-v2/config v1.32.35
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.44.5
