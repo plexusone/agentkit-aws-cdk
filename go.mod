@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/aws/aws-cdk-go/awscdk/v2 v2.264.0
-	github.com/aws/aws-sdk-go-v2 v1.43.5
+	github.com/aws/aws-sdk-go-v2 v1.43.6
 	github.com/aws/aws-sdk-go-v2/config v1.32.36
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.44.5
 	github.com/aws/aws-sdk-go-v2/service/sts v1.45.5
@@ -25,7 +25,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/signin v1.5.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.33.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.38.5 // indirect
-	github.com/aws/smithy-go v1.27.7 // indirect
+	github.com/aws/smithy-go v1.27.8 // indirect
 	github.com/cdklabs/awscdk-asset-awscli-go/awscliv1/v2 v2.2.292 // indirect
 	github.com/cdklabs/awscdk-asset-node-proxy-agent-go/nodeproxyagentv6/v2 v2.1.2 // indirect
 	github.com/cdklabs/cloud-assembly-schema-go/awscdkcloudassemblyschema/v54 v54.17.0 // indirect
